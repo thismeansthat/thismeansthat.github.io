@@ -1,21 +1,10 @@
 basic_settings:
-  site_title: Board
+  site_title: this means that
   favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: 
   logo_width: 200
-
-menu_settings:
-  menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 footer_settings:
   footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
