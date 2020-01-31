@@ -1,6 +1,6 @@
-site: Board Jekyll Theme
+site: this means that
 
-url: 
+url: https://thismeansthat.net
 baseurl: 
 
 collections:
@@ -9,10 +9,10 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /read the things/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /about/:slug
 
 defaults:
   -
@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 10
+paginate: 60
 paginate_path: "/blog/page:num/"
 
 grid_alignments:
