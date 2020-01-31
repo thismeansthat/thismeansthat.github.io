@@ -16,7 +16,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: 'emerging technologies delivery, digital operations, organisational design'
+  footer_tagline: 'this means that - emerging technologies delivery, organisational design'
 
 grid_settings:
   overlay_opacity: 0.8
